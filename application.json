@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Tom Nook Page 1",
+      "id": "Tom Nook - Game Info",
       "isDefault": true
+    },
+    {
+      "id": "Homer Simpson - Edit Games",
+      "isDefault": false
     }
   ],
   "viewMode": false,
