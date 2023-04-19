@@ -1,0 +1,4 @@
+{
+	"transaction_value" : {{transaction_value.text}}
+	"employee_id" : {{employee_id.inputText}}
+}

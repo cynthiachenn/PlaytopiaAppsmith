@@ -1,0 +1,4 @@
+{
+	"email": {{email.inputText}}
+	"order_id": {{order_id.inputText}}
+}

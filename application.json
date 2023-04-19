@@ -7,6 +7,14 @@
     {
       "id": "Homer Simpson - Edit Games",
       "isDefault": false
+    },
+    {
+      "id": "Homer Simpson - Order Informat",
+      "isDefault": false
+    },
+    {
+      "id": "Tom Nook - Ordering andGifting",
+      "isDefault": false
     }
   ],
   "viewMode": false,
