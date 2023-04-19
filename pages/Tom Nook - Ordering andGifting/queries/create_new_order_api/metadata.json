@@ -29,9 +29,9 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{\n\t\"transaction_value\" : {{transaction_value.text}}\n\t\"employee_id\" : {{employee_id.inputText}}\n}",
+      "body": "{\n\t\"transaction_value\" : {{transaction_value.text}},\n\t\"employee_id\" : {{employee_id.inputText}}\n}",
       "bodyFormData": [],
-      "httpMethod": "GET",
+      "httpMethod": "POST",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
